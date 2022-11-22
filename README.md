@@ -14,7 +14,7 @@
 
 ## 🚇 Outputs
 - then-catch Promise (method 관점)
-<img src="images/img_promise_flow.png" alt="promise" width="700" />
+<img src="images/img_promise_flow.png" alt="promise" width="800" />
 
 - then-catch Promise (state 관점)
 <img src="images/img_promise_flow_2.png" alt="promise" width="700" />
