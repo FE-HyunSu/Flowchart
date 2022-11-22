@@ -13,4 +13,11 @@
 <br/>
 
 ## 🚇 Outputs
-- (...)
+- then-catch Promise (method 관점)
+<img src="images/img_promise_flow.png" alt="promise" width="700" />
+
+- then-catch Promise (state 관점)
+<img src="images/img_promise_flow_2.png" alt="promise" width="700" />
+
+- try-catch
+<img src="images/img_trycatch_flow.png" alt="promise" width="650" />
