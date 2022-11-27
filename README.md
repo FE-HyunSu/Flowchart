@@ -9,14 +9,14 @@
 
 ## 🚇 Outputs
 
-- then-catch Promise (method 관점)
+- then-catch Promise (method 관점)<br/>
   <img src="images/img_promise_flow.png" alt="promise" width="800" />
 
-- then-catch Promise (state 관점)
+- then-catch Promise (state 관점)<br/>
   <img src="images/img_promise_flow_2.png" alt="promise" width="700" />
 
-- try-catch
+- try-catch<br/>
   <img src="images/img_trycatch_flow.png" alt="promise" width="650" />
 
-- AccountListBook ERD
-  <img src="images/img_account_list_erd.png" alt="promise" width="500" />
+- AccountListBook ERD<br/>
+  <img src="images/img_account_list_erd.png" alt="promise" width="400" />
