@@ -20,3 +20,6 @@
 
 - AccountListBook ERD<br/>
   <img src="images/img_account_list_erd.png" alt="promise" width="400" />
+
+- Server<br/>
+  <img src="images/img_server.png" alt="promise" width="600" />
