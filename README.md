@@ -23,3 +23,6 @@
 
 - Server<br/>
   <img src="images/img_server.png" alt="promise" width="600" />
+
+- WAS(Web Application Server)<br/>
+  <img src="images/img_was.png" alt="promise" width="700" />
